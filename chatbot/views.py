@@ -9,7 +9,7 @@ from django.contrib.auth.decorators import login_required
 
 
 # Create your views here.
-# openai_api_key = "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"
+# openai_api_key = "YOUR_OPENAI_API_KEY"
 # openai.api_key = openai_api_key
 
 
